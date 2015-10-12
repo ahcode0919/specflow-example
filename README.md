@@ -2,7 +2,7 @@
 
 * Quick summary - Simple SpecFlow BDD Framework example. Tests a user being able to create an account on Starbucks.com
 
-Project shows setup that is need to fully use SpecFlow in a production environment and the design patterns that are often used for efficient test running / construction / management.
+Project shows the setup that is need to fully use SpecFlow in a production environment and the design patterns that are often used for efficient test running / construction / management.
 
 * Utilizes the SpecFlow test context to pass the Selenium Firefox Driver between steps / tests.
 * Utilizes the concept of global and local test steps
