@@ -1,0 +1,11 @@
+Y:\Programming Projects\specflowexample\SpecFlowExample\obj\Debug\SpecFlowExample.csprojResolveAssemblyReference.cache
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\SpecFlowExample.dll.config
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\SpecFlowExample.dll
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\SpecFlowExample.pdb
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\nunit.framework.dll
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\TechTalk.SpecFlow.dll
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\WebDriver.dll
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\nunit.framework.xml
+Y:\Programming Projects\specflowexample\SpecFlowExample\bin\Debug\WebDriver.xml
+Y:\Programming Projects\specflowexample\SpecFlowExample\obj\Debug\SpecFlowExample.dll
+Y:\Programming Projects\specflowexample\SpecFlowExample\obj\Debug\SpecFlowExample.pdb
